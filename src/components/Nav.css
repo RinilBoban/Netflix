@@ -1,0 +1,8 @@
+.logo{
+    width: 250px;
+}
+.nav{
+    position: fixed;
+    top:0px;
+    padding: 20px;
+}
